@@ -22,4 +22,4 @@ INSERT INTO bears (
 );
 INSERT INTO bears (
   NULL, NULL, "male", "black", "aggressive", false
-)
+);
