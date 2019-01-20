@@ -21,5 +21,5 @@ INSERT INTO bears (
   "Wendy", 14, "female", "white", "friendly", true
 );
 INSERT INTO bears (
-  NULL, NULL, "male", "black", "aggressive", false
+  NULL, 5, "male", "black", "aggressive", false
 );
